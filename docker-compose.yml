@@ -3,7 +3,7 @@ services:
   moments:
     image: kingwrcy/moments:latest
     environment:
-      JWT_KEY: "BbYS93dHHfIC1cQR8rI6"
+      JWT_KEY: "VqlSEe+JjbiRVmkfdNWKcLe6N1sijYR5UDuKprGNv00="
     ports:
       - "3000:3000"
     volumes:
